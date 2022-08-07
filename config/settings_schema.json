@@ -29,6 +29,13 @@
         "info": "t:settings_schema.colors.settings.colors_accent_1.info"
       },
       {
+        "type": "color",
+        "id": "colors_test_text",
+        "default": "#121212",
+        "label": "t:settings_schema.colors.settings.colors_test_text.label",
+        "info": "t:settings_schema.colors.settings.colors_test_text.info"
+      },
+      {
         "id": "gradient_accent_1",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_1.label"
